@@ -1,5 +1,5 @@
-var array=("qwerty asd zxcv hfhfhf kaksfd");
-//var array=("aba aa ad vcd aba");
+//var array=("qwerty asd zxcv hfhfhf kaksfd");
+var array=("aba aa ad vcd aba");
 //var array=("enyky benyky yeli varenniky")
 //var salida = [];
 var contador=0;

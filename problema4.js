@@ -5,9 +5,9 @@
 //var cad ="oruro";
 //var cad ="qwerewq";
 //var cad = "vaavggj";
-var cad ="nnnassa";
+//var cad ="nnnassa";
 //var cad ="abcd";
-//var cad ="nnna";
+var cad ="nnna";
 //var cad = "asff";
 
 var aux="";

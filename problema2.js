@@ -25,10 +25,10 @@ while(cont>y){
     if(y!==0){
         contador=0;
         for(var i=0; i<=cadena.length-1;i++){
-            
+
             if(cadena[i] === '(' ){
                  contador++;
-                 
+
                  //console.log(cadenafalsa);
                  if(c==contador){
                     for(var p=i; p< cadena.length;p++){
@@ -48,7 +48,7 @@ while(cont>y){
             //console.log(contador);
             //break;
         }
-        
+
     }
     c=0;
 //console.log(cadena);
@@ -66,15 +66,15 @@ for(var j=a; j< cadena.length;j++){
     if(cadena[j] === ')'){
         //console.log(j);
         for(var k=0; k< cadena.length;k++){
-            
+
             if(k==a){
-                
+
                 while(a<j){
                     cadenafalsa= cadenafalsa+ cadena.charAt(j-1);
                     k++;
                     j--;
                 }
-                
+
             }
             cadenafalsa= cadenafalsa + cadena.charAt(k);
            // console.log(cadenafalsa);

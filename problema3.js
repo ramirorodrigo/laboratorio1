@@ -1,8 +1,8 @@
 //cadenas de entrada
-var cad ="abba";
+//var cad ="abba";
 //var cad ="oruro";
 //var cad ="qwerewq";
-//var cad = "vasvgfsadgj";
+var cad = "vasvgfsadgj";
 //var cad ="";
 
 var si="es palindromo";
@@ -20,4 +20,3 @@ for(var j=cad.length;j>-1;j--){
 if(aux==cad){console.log(si);}
 else{console.log(no);}
 console.log(aux);
-
